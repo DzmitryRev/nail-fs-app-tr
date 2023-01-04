@@ -35,5 +35,5 @@ yarn-error.log*
 # VSC
 .vscode
 
-# Temporarily #
-server
+# Builds
+dist
